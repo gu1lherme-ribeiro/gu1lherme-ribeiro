@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) ao perfil do gu1lherme-ribeiro 😁
+## Seja bem-vindo(a) ao perfil do gu1lherme-ribeiro !
 
  <div>
    <a href="https://github.com/gu1lherme-ribeiro">
