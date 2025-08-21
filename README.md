@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Opa, me segue ai nas redes sociais !! :)
+  ### Follow me on social media. !! :)
  
 <div> 
   <a href="https://instagram.com/guilherme_fernandess_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
