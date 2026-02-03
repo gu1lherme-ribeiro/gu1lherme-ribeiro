@@ -1,24 +1,63 @@
-## Seja bem-vindo(a) ao perfil do gu1lherme-ribeiro !
+# 👋 Seja bem-vindo(a) ao meu perfil — **gu1lherme-ribeiro**
 
- <div>
-   <a href="https://github.com/gu1lherme-ribeiro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gu1lherme-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1lherme-ribeiro&layout=compact&langs_count=6&theme=dark"/>
+✨ Olá! Eu sou o **Guilherme Ribeiro**, desenvolvedor apaixonado por tecnologia e construção de soluções que realmente importam.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
- <br>
- 
-  ### Follow me on social media. !! :)
- 
-<div> 
-  <a href="https://instagram.com/guilherme_fernandess_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pozeshelbyk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermefernandesribeiro27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+🚀 Este repositório centraliza meu perfil público — com uma visão geral das minhas skills, projetos em destaque e como me conectar com você.
+
+---
+
+## 💻 Sobre mim
+
+Sou um desenvolvedor focado em **tecnologias modernas**, sempre aprendendo e compartilhando código que pode ajudar outros desenvolvedores e equipes a alcançar seus objetivos.  
+Tenho interesse especial por:
+
+🔥 Desenvolvimento Web (Frontend & Backend)  
+⚡ APIs e microserviços  
+🐍 Python, JavaScript, HTML e CSS  
+🧠 Resolução de problemas e boas práticas
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+Estas são algumas das tecnologias que costumo usar e aprender:
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| Linguagens | Python, JavaScript, HTML, CSS |
+| Backend | FastAPI, Node.js |
+| Frontend | HTML5, CSS3, Vanilla JS |
+| Ferramentas | Git, GitHub |
+
+---
+
+## 📁 Projetos em Destaque
+
+Aqui estão alguns projetos que vale a pena conferir no meu GitHub:
+
+🔹 _⭐ Projetos com foco em aprendizado e contribuição_  
+🔹 _💡 Experiências com padrões e boas práticas de código_  
+🔹 _📚 Exemplos de uso real de tecnologias_
+
+---
+
+## 📌 Mais informações
+
+Se quiser me conhecer melhor:
+
+🔗 **GitHub**: https://github.com/gu1lherme-ribeiro  
+🔗 **LinkedIn**: _(adicione seu link aqui se quiser)_  
+📫 **Email**: _(adicione seu e-mail profissional)_
+
+---
+
+## 🚀 Como contribuir
+
+Gostou de algum projeto?  
+Fique à vontade para abrir issues, enviar *pull requests* ou sugerir melhorias! 😄
+
+---
+
+## ⚡ Agradecimento
+
+Obrigado por visitar! Sinta-se à vontade para explorar e conectar. 👏
