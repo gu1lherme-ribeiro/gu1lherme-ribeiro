@@ -34,6 +34,7 @@ Desenvolvedor com foco em construir soluções funcionais, manuteníveis e bem e
   <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=58A6FF" alt="n8n" />
   <img src="https://img.shields.io/badge/Evolution%20API-0D1117?style=for-the-badge&logo=whatsapp&logoColor=58A6FF" alt="Evolution API" />
   <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=58A6FF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF" alt="Claude Code" />
 </p>
 
 ---
