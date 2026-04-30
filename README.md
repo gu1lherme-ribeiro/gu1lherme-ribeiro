@@ -18,7 +18,7 @@
 
 Desenvolvedor com foco em construir soluções funcionais, manuteníveis e bem estruturadas. Busco aprender continuamente e aplicar boas práticas em cada projeto.
 
-- Áreas de interesse: desenvolvimento web, APIs e automação
+- Áreas de interesse: desenvolvimento web, APIs e Automação
 - Em estudo: arquitetura de software, testes e novas tecnologias
 - Contato: `guilherme.fernandes.dev27@gmail.com`
 
