@@ -29,7 +29,6 @@ Desenvolvedor com foco em construir soluções funcionais, manuteníveis e bem e
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -47,16 +46,16 @@ Desenvolvedor com foco em construir soluções funcionais, manuteníveis e bem e
 ### Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gu1lherme-ribeiro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1lherme-ribeiro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="top languages" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=gu1lherme-ribeiro&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&dayLabels=C9D1D9" alt="streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gu1lherme-ribeiro&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gu1lherme-ribeiro&theme=github_dark" alt="profile details" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gu1lherme-ribeiro&theme=github_dark&exclude=html,css" alt="repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gu1lherme-ribeiro&theme=github_dark" alt="most commit language" />
 </p>
 
 ---
