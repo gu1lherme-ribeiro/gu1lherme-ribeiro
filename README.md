@@ -46,16 +46,12 @@ Desenvolvedor com foco em construir soluções funcionais, manuteníveis e bem e
 ### Estatísticas
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=gu1lherme-ribeiro&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&dayLabels=C9D1D9" alt="streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gu1lherme-ribeiro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_rank=true" alt="github stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=gu1lherme-ribeiro&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&dayLabels=C9D1D9" alt="streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gu1lherme-ribeiro&theme=github_dark" alt="profile details" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gu1lherme-ribeiro&theme=github_dark&exclude=html,css" alt="repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gu1lherme-ribeiro&theme=github_dark" alt="most commit language" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1lherme-ribeiro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=README" alt="top languages" />
 </p>
 
 ---
